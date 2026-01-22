@@ -1,4 +1,8 @@
 # CMPUT 301 : Lab 3 Participation Exercise
+## Student Details
+
+- **Full Name:** `<Yuhan Liu>`
+- **CCID:** `<1827316>`
 
 ## References and Resources
 
